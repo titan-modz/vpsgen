@@ -1,12 +1,6 @@
 #!/bin/bash
 
-echo " ████████           ██              ██              ██   ██  ██                      ██            ██                          ██
-                                                                     
-                █                    ██ ██                     ██               ██                 ██                      ██        ██
-                                  
-         █                           ██                         ██        ██                         ██                       ██         ██
-                                                  
-█████████            ██                         ██                 ██               ██           ██                                  ██ "
+echo "ZYRIX GROUPS PRESENTS"
 
 echo MAKE YOUR OWN VPS HOSTING USING LOTTANODES
 
